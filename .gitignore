@@ -1,0 +1,16 @@
+# Vivado output, recreated by a build
+*.runs/
+*.cache/
+*.hw/
+*.gen/
+*.sim/
+*.ip_user_files/
+.Xil/
+vivado*.jou
+vivado*.log
+vivado*.str
+vivado_pid*.zip
+webtalk*
+
+# macOS
+.DS_Store
